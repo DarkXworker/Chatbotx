@@ -6,7 +6,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", 24234147))
 API_HASH = getenv("API_HASH", "63b9acd92d2d8f538e12c09ecec6ff78")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", "6737594332:AAEtopgWUt0cJNJgjbYpnh-HA9K42hepbIE")
 OWNER_ID = int(getenv("OWNER_ID", 5417870023))
 MONGO_URL = getenv("MONGO_URL", None)
 SUPPORT_GRP = getenv("SUPPORT_GRP", "WrostDemon")
